@@ -1,4 +1,5 @@
 
+// Metodo para mudar a cor do semaforo
 function changeTrafficLight(){
 
    if(document.getElementById("yellow").className == "light yellow-light"){
